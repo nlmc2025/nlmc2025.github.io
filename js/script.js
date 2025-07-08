@@ -1,1 +1,209 @@
-function _0x249b(_0x4e54e5,_0x4c6467){const _0x3680b0=_0x3680();return _0x249b=function(_0x249beb,_0xa2b058){_0x249beb=_0x249beb-0x1ca;let _0x4d5fee=_0x3680b0[_0x249beb];return _0x4d5fee;},_0x249b(_0x4e54e5,_0x4c6467);}const _0x5ca94e=_0x249b;(function(_0x11401b,_0x459193){const _0x2b69a2=_0x249b,_0x28969f=_0x11401b();while(!![]){try{const _0x5e2106=-parseInt(_0x2b69a2(0x22c))/0x1*(-parseInt(_0x2b69a2(0x1ff))/0x2)+parseInt(_0x2b69a2(0x1d6))/0x3+-parseInt(_0x2b69a2(0x1dc))/0x4*(-parseInt(_0x2b69a2(0x1d8))/0x5)+-parseInt(_0x2b69a2(0x1d7))/0x6*(-parseInt(_0x2b69a2(0x22d))/0x7)+-parseInt(_0x2b69a2(0x1f2))/0x8*(-parseInt(_0x2b69a2(0x1db))/0x9)+parseInt(_0x2b69a2(0x215))/0xa+-parseInt(_0x2b69a2(0x227))/0xb*(parseInt(_0x2b69a2(0x21f))/0xc);if(_0x5e2106===_0x459193)break;else _0x28969f['push'](_0x28969f['shift']());}catch(_0x2bb343){_0x28969f['push'](_0x28969f['shift']());}}}(_0x3680,0xb4eb5));const config={'serverInfo':{'serverLogoImageFileName':_0x5ca94e(0x208),'serverName':_0x5ca94e(0x20f),'serverIp':_0x5ca94e(0x23a),'discordServerID':'916690894374207559'},'userSKinTypeInAdminTeam':_0x5ca94e(0x1ce),'atGroupsDefaultColors':{'leaders':_0x5ca94e(0x226),'developers':_0x5ca94e(0x1d4),'helpers':_0x5ca94e(0x1e5),'builders':_0x5ca94e(0x223)},'adminTeamPage':{'leaders':[{'inGameName':_0x5ca94e(0x1ea),'rank':_0x5ca94e(0x1ca),'skinUrlOrPathToFile':'','rankColor':_0x5ca94e(0x1e2)},{'inGameName':_0x5ca94e(0x1cd),'rank':_0x5ca94e(0x212),'skinUrlOrPathToFile':'','rankColor':'rgba(153,\x20113,\x20240,\x201)'},{'inGameName':_0x5ca94e(0x21a),'rank':'Admin','skinUrlOrPathToFile':'','rankColor':'rgba(255,\x203,\x203,\x201)'}],'moderators':[{'inGameName':_0x5ca94e(0x1cc),'rank':_0x5ca94e(0x1e6),'skinUrlOrPathToFile':'','rankColor':_0x5ca94e(0x1ed)}],'helpers':[{'inGameName':_0x5ca94e(0x1de),'rank':_0x5ca94e(0x20b),'skinUrlOrPathToFile':'','rankColor':'rgba(144,\x20238,\x20144,\x201)'},{'inGameName':_0x5ca94e(0x20c),'rank':_0x5ca94e(0x20b),'skinUrlOrPathToFile':'','rankColor':_0x5ca94e(0x22b)},{'inGameName':_0x5ca94e(0x1da),'rank':'Helper','skinUrlOrPathToFile':'','rankColor':_0x5ca94e(0x22b)},{'inGameName':'Legendyboi','rank':_0x5ca94e(0x20b),'skinUrlOrPathToFile':'','rankColor':_0x5ca94e(0x22b)}]},'contactPage':{'email':'nasilemakminecraft@gmail.com'}},navbar=document[_0x5ca94e(0x234)](_0x5ca94e(0x217)),navbarLinks=document['querySelector'](_0x5ca94e(0x1f3)),hamburger=document[_0x5ca94e(0x234)](_0x5ca94e(0x1d3));function _0x3680(){const _0x1b6205=['bust','.discord-online-users','https://formsubmit.co/','add','rank','.hamburger','rgba(230,\x2083,\x200,\x200.5)','An\x20error\x20has\x20occurred!','1347528UjrLRy','6618036SftHvR','3876815wUBbEi','atGroupsDefaultColors','Icyzflee','9nWQAjG','4NbUyBN','status','Drakate747','.logo-img','json','div','rgb(255,\x20136,\x200)','https://visage.surgeplay.com/','\x22\x20style=\x22background:\x20','rgba(11,\x20175,\x20255,\x200.5)','Moderator','slice','maxHeight','userSKinTypeInAdminTeam','skysky','appendChild','contactPage','#006dff','includes','.logo-img-header','contact','.copy-ip','9618704TiNpPu','.links','remove','rankColor','innerHTML','.accordion-item-header','length','toggle','style','.minecraft-server-ip','index','admin-team','active','2ytKCto','0px','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2\x20class=\x22rank-title\x22>','.at-content','/512/','</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22rank\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5\x20class=\x22name\x22>','user','logo.png','/512/ec561538f3fd461daff5086b22154bce','value','Helper','yyaodi','toUpperCase','inGameName','Nasi\x20Lemak\x20Minecraft','.minecraft-online-players','log','Co-owner','presence_count','discordServerID','3153650qkHlpd','online','.navbar','serverLogoImageFileName','serverIp','Rinkimika_','adminTeamPage','players','rules','contains','12VThvqv','forEach','createElement','src','rgba(247,\x202,\x20176,\x200.5)','email','classList','rgba(255,\x20124,\x20124,\x200.5)','43727959SwdGIP','serverInfo','pathname','.location-after-submit','rgba(144,\x20238,\x20144,\x201)','871066MbjeMa','7EiQqGE','querySelectorAll','addEventListener','/widget.json','click','images/','https://discord.com/api/guilds/','querySelector','.server-name','scrollHeight','action','\x20.users','</p>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','nasi.lemak.xyz','https://api.minetools.eu/uuid/','group','error','Owner','writeText','None','Mengyboi'];_0x3680=function(){return _0x1b6205;};return _0x3680();}hamburger['addEventListener'](_0x5ca94e(0x231),()=>{const _0x1ce831=_0x5ca94e;navbar['classList'][_0x1ce831(0x1f9)](_0x1ce831(0x1fe)),navbarLinks[_0x1ce831(0x225)][_0x1ce831(0x1f9)](_0x1ce831(0x1fe));});const accordionItemHeaders=document[_0x5ca94e(0x22e)](_0x5ca94e(0x1f7));accordionItemHeaders[_0x5ca94e(0x220)](_0x3a5006=>{const _0x5275f7=_0x5ca94e;_0x3a5006[_0x5275f7(0x22f)](_0x5275f7(0x231),()=>{const _0x45382e=_0x5275f7;_0x3a5006['classList'][_0x45382e(0x1f9)](_0x45382e(0x1fe));const _0x2dbab4=_0x3a5006['nextElementSibling'];if(_0x3a5006[_0x45382e(0x225)][_0x45382e(0x21e)](_0x45382e(0x1fe)))_0x2dbab4[_0x45382e(0x1fa)][_0x45382e(0x1e8)]=_0x2dbab4[_0x45382e(0x236)]+'px';else _0x2dbab4[_0x45382e(0x1fa)][_0x45382e(0x1e8)]=_0x45382e(0x200);});});const serverName=document[_0x5ca94e(0x234)](_0x5ca94e(0x235)),serverLogo=document['querySelector'](_0x5ca94e(0x1df)),serverIp=document[_0x5ca94e(0x234)](_0x5ca94e(0x1fb)),serverLogoHeader=document[_0x5ca94e(0x234)](_0x5ca94e(0x1ef)),discordOnlineUsers=document[_0x5ca94e(0x234)](_0x5ca94e(0x1cf)),minecraftOnlinePlayers=document['querySelector'](_0x5ca94e(0x210)),contactForm=document[_0x5ca94e(0x234)]('.contact-form'),inputWithLocationAfterSubmit=document['querySelector'](_0x5ca94e(0x22a)),getDiscordOnlineUsers=async()=>{const _0x2430c8=_0x5ca94e;try{const _0x1f9736=config[_0x2430c8(0x228)][_0x2430c8(0x214)],_0x3c539b=_0x2430c8(0x233)+_0x1f9736+_0x2430c8(0x230);let _0x1229dd=await fetch(_0x3c539b),_0x23f67e=await _0x1229dd['json']();if(!_0x23f67e[_0x2430c8(0x213)])return'None';else return await _0x23f67e[_0x2430c8(0x213)];}catch(_0x3c201a){return _0x2430c8(0x1cc);}},getMinecraftOnlinePlayer=async()=>{const _0x467fe0=_0x5ca94e;try{const _0x5ac4cd=config[_0x467fe0(0x228)][_0x467fe0(0x219)],_0x32a6d5='https://api.mcsrvstat.us/2/'+_0x5ac4cd;let _0x4a38cb=await fetch(_0x32a6d5),_0x2bf6a2=await _0x4a38cb['json']();return _0x2bf6a2[_0x467fe0(0x21c)][_0x467fe0(0x216)];}catch(_0x4bba0d){return console['log'](_0x4bba0d),_0x467fe0(0x1cc);}},getUuidByUsername=async _0x2611e2=>{const _0x2b5e74=_0x5ca94e;try{const _0x1f9380=_0x2b5e74(0x23b)+_0x2611e2;let _0x3df7fc=await fetch(_0x1f9380),_0x128737=await _0x3df7fc[_0x2b5e74(0x1e0)]();return _0x128737['id'];}catch(_0x41bda4){return console[_0x2b5e74(0x211)](_0x41bda4),'None';}},getSkinByUuid=async _0x3c9ca3=>{const _0x4dce00=_0x5ca94e;try{const _0x57a831=_0x4dce00(0x1e3)+config[_0x4dce00(0x1e9)]+_0x4dce00(0x203)+await getUuidByUsername(_0x3c9ca3);let _0x43015b=await fetch(_0x57a831);if(_0x43015b[_0x4dce00(0x1dd)]===0x190)return'https://visage.surgeplay.com/'+config[_0x4dce00(0x1e9)]+_0x4dce00(0x209);else return _0x57a831;}catch(_0x5b7df4){return console[_0x4dce00(0x211)](_0x5b7df4),_0x4dce00(0x1cc);}},copyIp=()=>{const _0x4ba1e1=_0x5ca94e,_0x18ac01=document[_0x4ba1e1(0x234)](_0x4ba1e1(0x1f1)),_0x34cdbf=document['querySelector']('.ip-copied');_0x18ac01[_0x4ba1e1(0x22f)]('click',()=>{const _0x39b10d=_0x4ba1e1;try{navigator['clipboard'][_0x39b10d(0x1cb)](config[_0x39b10d(0x228)][_0x39b10d(0x219)]),_0x34cdbf[_0x39b10d(0x225)][_0x39b10d(0x1d1)](_0x39b10d(0x1fe)),setTimeout(()=>{const _0x39290c=_0x39b10d;_0x34cdbf[_0x39290c(0x225)]['remove']('active');},0x1388);}catch(_0x5cd5ad){console[_0x39b10d(0x211)](_0x5cd5ad),_0x34cdbf[_0x39b10d(0x1f6)]=_0x39b10d(0x1d5),_0x34cdbf['classList']['add'](_0x39b10d(0x1fe)),_0x34cdbf[_0x39b10d(0x225)]['add'](_0x39b10d(0x23d)),setTimeout(()=>{const _0x120a9c=_0x39b10d;_0x34cdbf['classList'][_0x120a9c(0x1f4)]('active'),_0x34cdbf[_0x120a9c(0x225)][_0x120a9c(0x1f4)](_0x120a9c(0x23d));},0x1388);}});},setDataFromConfigToHtml=async()=>{const _0x9e4136=_0x5ca94e;serverName[_0x9e4136(0x1f6)]=config[_0x9e4136(0x228)]['serverName'],serverLogo[_0x9e4136(0x222)]=_0x9e4136(0x232)+config[_0x9e4136(0x228)]['serverLogoImageFileName'],serverIp[_0x9e4136(0x1f6)]=config[_0x9e4136(0x228)][_0x9e4136(0x219)];let _0x4370eb=location[_0x9e4136(0x229)];if(_0x4370eb=='/'||_0x4370eb[_0x9e4136(0x1ee)](_0x9e4136(0x1fc)))copyIp(),serverLogoHeader[_0x9e4136(0x222)]='images/'+config[_0x9e4136(0x228)][_0x9e4136(0x218)],discordOnlineUsers['innerHTML']=await getDiscordOnlineUsers(),minecraftOnlinePlayers[_0x9e4136(0x1f6)]=await getMinecraftOnlinePlayer();else{if(_0x4370eb[_0x9e4136(0x1ee)](_0x9e4136(0x21d)))copyIp();else{if(_0x4370eb[_0x9e4136(0x1ee)](_0x9e4136(0x1fd)))for(let _0x56370b in config[_0x9e4136(0x21b)]){const _0x1313b2=document[_0x9e4136(0x234)](_0x9e4136(0x202)),_0xd59844=document['createElement']('div');_0xd59844[_0x9e4136(0x225)][_0x9e4136(0x1d1)](_0x9e4136(0x23c)),_0xd59844[_0x9e4136(0x225)]['add'](_0x56370b);const _0x309601=_0x9e4136(0x201)+(_0x56370b['charAt'](0x0)[_0x9e4136(0x20d)]()+_0x56370b[_0x9e4136(0x1e7)](0x1))+'</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22users\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';_0xd59844[_0x9e4136(0x1f6)]=_0x309601,_0x1313b2[_0x9e4136(0x1eb)](_0xd59844);for(let _0x41eb53=0x0;_0x41eb53<config[_0x9e4136(0x21b)][_0x56370b][_0x9e4136(0x1f8)];_0x41eb53++){let _0x3e878a=config[_0x9e4136(0x21b)][_0x56370b][_0x41eb53];const _0xa24c8a=document[_0x9e4136(0x234)]('.'+_0x56370b+_0x9e4136(0x238)),_0x18804e=document[_0x9e4136(0x221)](_0x9e4136(0x1e1));_0x18804e['classList']['add'](_0x9e4136(0x207));let _0x28a5e7=config['adminTeamPage'][_0x56370b][_0x41eb53]['skinUrlOrPathToFile'];if(_0x28a5e7=='')_0x28a5e7=await getSkinByUuid(_0x3e878a['inGameName']);let _0x4d65c2=config[_0x9e4136(0x1d9)][_0x56370b];_0x3e878a[_0x9e4136(0x1f5)]!=''&&(_0x4d65c2=_0x3e878a[_0x9e4136(0x1f5)]);const _0x2558b8=_0x9e4136(0x205)+await _0x28a5e7+'\x22\x20alt=\x22'+_0x3e878a[_0x9e4136(0x20e)]+_0x9e4136(0x206)+_0x3e878a[_0x9e4136(0x20e)]+_0x9e4136(0x204)+_0x56370b+_0x9e4136(0x1e4)+_0x4d65c2+'\x22>'+_0x3e878a[_0x9e4136(0x1d2)]+_0x9e4136(0x239);_0x18804e[_0x9e4136(0x1f6)]=_0x2558b8,_0xa24c8a[_0x9e4136(0x1eb)](_0x18804e);}}else _0x4370eb[_0x9e4136(0x1ee)](_0x9e4136(0x1f0))&&(contactForm[_0x9e4136(0x237)]=_0x9e4136(0x1d0)+config[_0x9e4136(0x1ec)][_0x9e4136(0x224)],discordOnlineUsers[_0x9e4136(0x1f6)]=await getDiscordOnlineUsers(),inputWithLocationAfterSubmit[_0x9e4136(0x20a)]=location['href']);}}};setDataFromConfigToHtml();
+const config = {
+  'serverInfo': {
+    'serverLogoImageFileName': "logo.png",
+    'serverName': "Nasi Lemak Minecraft",
+    'serverIp': "nasi.lemak.xyz",
+    'discordServerID': '916690894374207559'
+  },
+  'userSKinTypeInAdminTeam': "bust",
+  'atGroupsDefaultColors': {
+    'leaders': "rgba(255, 124, 124, 0.5)",
+    'developers': "rgba(230, 83, 0, 0.5)",
+    'helpers': "rgba(11, 175, 255, 0.5)",
+    'builders': "rgba(247, 2, 176, 0.5)"
+  },
+  'adminTeamPage': {
+    'leaders': [{
+      'inGameName': "skysky",
+      'rank': "Owner",
+      'skinUrlOrPathToFile': '',
+      'rankColor': "rgb(255, 136, 0)"
+    }, {
+      'inGameName': "Mengyboi",
+      'rank': "Co-owner",
+      'skinUrlOrPathToFile': '',
+      'rankColor': "rgba(153, 113, 240, 1)"
+    }, {
+      'inGameName': "Rinkimika_",
+      'rank': 'Admin',
+      'skinUrlOrPathToFile': '',
+      'rankColor': "rgba(255, 3, 3, 1)"
+    }, {
+      'inGameName': "Drakate747",
+      'rank': "Admin",
+      'skinUrlOrPathToFile': '',
+      'rankColor': "rgba(255, 3, 3, 1)"
+    }],
+    'moderators': [{
+      'inGameName': "yyaodi",
+      'rank': "Moderator",
+      'skinUrlOrPathToFile': '',
+      'rankColor': "#006dff"
+    }],
+    'helpers': [{
+      'inGameName': "Icyzflee",
+      'rank': 'Helper',
+      'skinUrlOrPathToFile': '',
+      'rankColor': "rgba(144, 238, 144, 1)"
+    }, {
+      'inGameName': 'Legendyboi',
+      'rank': "Helper",
+      'skinUrlOrPathToFile': '',
+      'rankColor': "rgba(144, 238, 144, 1)"
+    }]
+  },
+  'contactPage': {
+    'email': 'nasilemakminecraft@gmail.com'
+  }
+};
+const navbar = document.querySelector(".navbar");
+const navbarLinks = document.querySelector(".links");
+const hamburger = document.querySelector(".hamburger");
+hamburger.addEventListener("click", () => {
+  navbar.classList.toggle("active");
+  navbarLinks.classList.toggle("active");
+});
+const accordionItemHeaders = document.querySelectorAll(".accordion-item-header");
+accordionItemHeaders.forEach(_0x3a5006 => {
+  _0x3a5006.addEventListener("click", () => {
+    _0x3a5006.classList.toggle("active");
+    const _0x2dbab4 = _0x3a5006.nextElementSibling;
+    if (_0x3a5006.classList.contains("active")) {
+      _0x2dbab4.style.maxHeight = _0x2dbab4.scrollHeight + 'px';
+    } else {
+      _0x2dbab4.style.maxHeight = "0px";
+    }
+  });
+});
+const serverName = document.querySelector(".server-name");
+const serverLogo = document.querySelector(".logo-img");
+const serverIp = document.querySelector(".minecraft-server-ip");
+const serverLogoHeader = document.querySelector(".logo-img-header");
+const discordOnlineUsers = document.querySelector(".discord-online-users");
+const minecraftOnlinePlayers = document.querySelector(".minecraft-online-players");
+const contactForm = document.querySelector('.contact-form');
+const inputWithLocationAfterSubmit = document.querySelector(".location-after-submit");
+const getDiscordOnlineUsers = async () => {
+  try {
+    const _0x1f9736 = config.serverInfo.discordServerID;
+    const _0x3c539b = "https://discord.com/api/guilds/" + _0x1f9736 + "/widget.json";
+    let _0x1229dd = await fetch(_0x3c539b);
+    let _0x23f67e = await _0x1229dd.json();
+    if (!_0x23f67e.presence_count) {
+      return 'None';
+    } else {
+      return await _0x23f67e.presence_count;
+    }
+  } catch (_0x3c201a) {
+    return "None";
+  }
+};
+const getMinecraftOnlinePlayer = async () => {
+  try {
+    const _0x5ac4cd = config.serverInfo.serverIp;
+    const _0x32a6d5 = 'https://api.mcsrvstat.us/2/' + _0x5ac4cd;
+    let _0x4a38cb = await fetch(_0x32a6d5);
+    let _0x2bf6a2 = await _0x4a38cb.json();
+    return _0x2bf6a2.players.online;
+  } catch (_0x4bba0d) {
+    console.log(_0x4bba0d);
+    return "None";
+  }
+};
+const getUuidByUsername = async _0x2611e2 => {
+  try {
+    const _0x1f9380 = "https://api.minetools.eu/uuid/" + _0x2611e2;
+    let _0x3df7fc = await fetch(_0x1f9380);
+    let _0x128737 = await _0x3df7fc.json();
+    return _0x128737.id;
+  } catch (_0x41bda4) {
+    console.log(_0x41bda4);
+    return 'None';
+  }
+};
+const getSkinByUuid = async _0x3c9ca3 => {
+  try {
+    const _0x57a831 = "https://visage.surgeplay.com/bust/512/" + (await getUuidByUsername(_0x3c9ca3));
+    let _0x43015b = await fetch(_0x57a831);
+    if (_0x43015b.status === 0x190) {
+      return "https://visage.surgeplay.com/bust/512/ec561538f3fd461daff5086b22154bce";
+    } else {
+      return _0x57a831;
+    }
+  } catch (_0x5b7df4) {
+    console.log(_0x5b7df4);
+    return "None";
+  }
+};
+const copyIp = () => {
+  const _0x18ac01 = document.querySelector(".copy-ip");
+  const _0x34cdbf = document.querySelector('.ip-copied');
+  _0x18ac01.addEventListener('click', () => {
+    try {
+      navigator.clipboard.writeText(config.serverInfo.serverIp);
+      _0x34cdbf.classList.add("active");
+      setTimeout(() => {
+        _0x34cdbf.classList.remove('active');
+      }, 0x1388);
+    } catch (_0x5cd5ad) {
+      console.log(_0x5cd5ad);
+      _0x34cdbf.innerHTML = "An error has occurred!";
+      _0x34cdbf.classList.add("active");
+      _0x34cdbf.classList.add("error");
+      setTimeout(() => {
+        _0x34cdbf.classList.remove('active');
+        _0x34cdbf.classList.remove("error");
+      }, 0x1388);
+    }
+  });
+};
+const setDataFromConfigToHtml = async () => {
+  serverName.innerHTML = config.serverInfo.serverName;
+  serverLogo.src = "images/" + config.serverInfo.serverLogoImageFileName;
+  serverIp.innerHTML = config.serverInfo.serverIp;
+  let _0x4370eb = location.pathname;
+  if (_0x4370eb == '/' || _0x4370eb.includes("index")) {
+    copyIp();
+    serverLogoHeader.src = 'images/' + config.serverInfo.serverLogoImageFileName;
+    discordOnlineUsers.innerHTML = await getDiscordOnlineUsers();
+    minecraftOnlinePlayers.innerHTML = await getMinecraftOnlinePlayer();
+  } else {
+    if (_0x4370eb.includes("rules")) {
+      copyIp();
+    } else {
+      if (_0x4370eb.includes("admin-team")) {
+        for (let _0x56370b in config.adminTeamPage) {
+          const _0x1313b2 = document.querySelector(".at-content");
+          const _0xd59844 = document.createElement('div');
+          _0xd59844.classList.add("group");
+          _0xd59844.classList.add(_0x56370b);
+          const _0x309601 = "\n                <h2 class=\"rank-title\">" + (_0x56370b.charAt(0x0).toUpperCase() + _0x56370b.slice(0x1)) + "</h2>\n                <div class=\"users\">\n                </div>\n            ";
+          _0xd59844.innerHTML = _0x309601;
+          _0x1313b2.appendChild(_0xd59844);
+          for (let _0x41eb53 = 0x0; _0x41eb53 < config.adminTeamPage[_0x56370b].length; _0x41eb53++) {
+            let _0x3e878a = config.adminTeamPage[_0x56370b][_0x41eb53];
+            const _0xa24c8a = document.querySelector('.' + _0x56370b + " .users");
+            const _0x18804e = document.createElement("div");
+            _0x18804e.classList.add("user");
+            let _0x28a5e7 = config.adminTeamPage[_0x56370b][_0x41eb53].skinUrlOrPathToFile;
+            if (_0x28a5e7 == '') {
+              _0x28a5e7 = await getSkinByUuid(_0x3e878a.inGameName);
+            }
+            let _0x4d65c2 = config.atGroupsDefaultColors[_0x56370b];
+            if (_0x3e878a.rankColor != '') {
+              _0x4d65c2 = _0x3e878a.rankColor;
+            }
+            const _0x2558b8 = "\n                    <img src=\"" + (await _0x28a5e7) + "\" alt=\"" + _0x3e878a.inGameName + "\">\n                    <h5 class=\"name\">" + _0x3e878a.inGameName + "</h5>\n                    <p class=\"rank " + _0x56370b + "\" style=\"background: " + _0x4d65c2 + "\">" + _0x3e878a.rank + "</p>  \n                ";
+            _0x18804e.innerHTML = _0x2558b8;
+            _0xa24c8a.appendChild(_0x18804e);
+          }
+        }
+      } else if (_0x4370eb.includes("contact")) {
+        contactForm.action = "https://formsubmit.co/" + config.contactPage.email;
+        discordOnlineUsers.innerHTML = await getDiscordOnlineUsers();
+        inputWithLocationAfterSubmit.value = location.href;
+      }
+    }
+  }
+};
+setDataFromConfigToHtml();
