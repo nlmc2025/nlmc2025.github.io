@@ -30,7 +30,7 @@ const config = {
       'rankColor': "rgba(255, 3, 3, 1)"
     }],
     'moderators': [{
-      'inGameName': "-",
+      'inGameName': "None",
       'rank': "Moderator",
       'skinUrlOrPathToFile': '',
       'rankColor': "#006dff"
@@ -99,7 +99,7 @@ const getMinecraftOnlinePlayer = async () => {
     const _0x32a6d5 = 'https://api.mcsrvstat.us/2/' + _0x5ac4cd;
     let _0x4a38cb = await fetch(_0x32a6d5);
     let _0x2bf6a2 = await _0x4a38cb.json();
-    return  _0x2bf6a2.players.online + 10;
+    return  _0x2bf6a2.players.online + 13;
   } catch (_0x4bba0d) {
     console.log(_0x4bba0d);
     return "10";
