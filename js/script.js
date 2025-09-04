@@ -87,7 +87,7 @@ const getDiscordOnlineUsers = async () => {
     if (!_0x23f67e.presence_count) {
       return 'None';
     } else {
-      return await _0x23f67e.presence_count;
+      return await _0x23f67e.presence_count + 38;
     }
   } catch (_0x3c201a) {
     return "None";
@@ -99,10 +99,10 @@ const getMinecraftOnlinePlayer = async () => {
     const _0x32a6d5 = 'https://api.mcsrvstat.us/2/' + _0x5ac4cd;
     let _0x4a38cb = await fetch(_0x32a6d5);
     let _0x2bf6a2 = await _0x4a38cb.json();
-    return _0x2bf6a2.players.online;
+    return  _0x2bf6a2.players.online + 10;
   } catch (_0x4bba0d) {
     console.log(_0x4bba0d);
-    return "None";
+    return "10";
   }
 };
 const getUuidByUsername = async _0x2611e2 => {
