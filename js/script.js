@@ -28,14 +28,9 @@ const config = {
       'rank': 'Admin',
       'skinUrlOrPathToFile': '',
       'rankColor': "rgba(255, 3, 3, 1)"
-    }, {
-      'inGameName': "Drakate747",
-      'rank': "Admin",
-      'skinUrlOrPathToFile': '',
-      'rankColor': "rgba(255, 3, 3, 1)"
     }],
     'moderators': [{
-      'inGameName': "yyaodi",
+      'inGameName': "-",
       'rank': "Moderator",
       'skinUrlOrPathToFile': '',
       'rankColor': "#006dff"
