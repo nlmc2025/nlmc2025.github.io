@@ -465,7 +465,6 @@
 #vote .content .info .section-description {
     color: var(--description-color);
     font-size: 17px;
-    max-width: 80%;
     line-height: 1.6;
 }
 
