@@ -23,11 +23,6 @@ const config = {
       'rank': "Co-owner",
       'skinUrlOrPathToFile': '',
       'rankColor': "rgba(153, 113, 240, 1)"
-    }, {
-      'inGameName': "Rinkimika_",
-      'rank': 'Admin',
-      'skinUrlOrPathToFile': '',
-      'rankColor': "rgba(255, 3, 3, 1)"
     }],
     'moderators': [{
       'inGameName': "None",
@@ -38,11 +33,6 @@ const config = {
     'helpers': [{
       'inGameName': "Icyzflee",
       'rank': 'Helper',
-      'skinUrlOrPathToFile': '',
-      'rankColor': "rgba(144, 238, 144, 1)"
-    }, {
-      'inGameName': 'Legendyboi',
-      'rank': "Helper",
       'skinUrlOrPathToFile': '',
       'rankColor': "rgba(144, 238, 144, 1)"
     }]
