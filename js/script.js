@@ -21,7 +21,7 @@ const config = {
         rankColor: "rgb(255, 136, 0)"
       },
       {
-        inGameName: "Mengyboi",
+        inGameName: "Mengy_boi",
         rank: "Co-owner",
         skinUrlOrPathToFile: "",
         rankColor: "rgba(153, 113, 240, 1)"
@@ -29,7 +29,7 @@ const config = {
     ],
     moderators: [
       {
-        inGameName: "Icyzflee",
+        inGameName: "IcyzFlee",
         rank: "Moderator",
         skinUrlOrPathToFile: "",
         rankColor: "#006dff"
@@ -113,10 +113,13 @@ const getMinecraftOnlinePlayer = async () => {
 
 const getUuidByUsername = async (username) => {
   try {
-    const url = `https://api.minetools.eu/uuid/${username}`;
+    const url = `https://api.ashcon.app/mojang/v2/user/${username}`;
     let response = await fetch(url);
+    
+    if (!response.ok) throw new Error("User not found");
+    
     let data = await response.json();
-    return data.id;
+    return data.uuid; 
   } catch (error) {
     console.log(error);
     return "None";
