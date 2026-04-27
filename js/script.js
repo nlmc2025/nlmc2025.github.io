@@ -5,7 +5,7 @@ const config = {
     'serverIp': "nasi.lemak.xyz",
     'discordServerID': '916690894374207559'
   },
-  'userSKinTypeInAdminTeam': "bust",
+  'userSkinTypeInAdminTeam': "bust",
   'atGroupsDefaultColors': {
     'leaders': "rgba(255, 124, 124, 0.5)",
     'developers': "rgba(230, 83, 0, 0.5)",
@@ -16,22 +16,22 @@ const config = {
     'leaders': [{
       'inGameName': "skysky",
       'rank': "Owner",
-      'skinUrlOrPathToFile': '',
+      'skinUrlOrPathToFile': 'https://minotar.net/skin/skysky',
       'rankColor': "rgb(255, 136, 0)"
     }, {
       'inGameName': "Mengyboi",
       'rank': "Co-owner",
-      'skinUrlOrPathToFile': '',
+      'skinUrlOrPathToFile': 'https://minotar.net/skin/Mengyboi',
       'rankColor': "rgba(153, 113, 240, 1)"
     }],
     'moderators': [{
-      'inGameName': "None",
+      'inGameName': "Icyzflee",
       'rank': "Moderator",
-      'skinUrlOrPathToFile': '',
+      'skinUrlOrPathToFile': 'https://minotar.net/skin/Icyzflee',
       'rankColor': "#006dff"
     }],
     'helpers': [{
-      'inGameName': "Icyzflee",
+      'inGameName': "None",
       'rank': 'Helper',
       'skinUrlOrPathToFile': '',
       'rankColor': "rgba(144, 238, 144, 1)"
