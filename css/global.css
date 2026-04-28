@@ -263,3 +263,91 @@ section:not(#header) .content {
     text-align: center;
   }
 }
+
+/* --- Tutorial Dropdown Navigation --- */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.dropbtn i {
+  font-size: 14px;
+  transition: transform 0.2s ease;
+}
+
+.dropdown:hover .dropbtn i {
+  transform: rotate(180deg);
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: var(--background-color);
+  min-width: 180px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+  z-index: 10;
+  border-radius: 8px;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 15px;
+  padding: 10px 0;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* Invisible bridge so the hover doesn't break when moving mouse down */
+.dropdown-content::before {
+  content: "";
+  position: absolute;
+  top: -15px;
+  left: 0;
+  width: 100%;
+  height: 15px;
+}
+
+.dropdown-content a {
+  color: var(--description-color);
+  padding: 12px 20px;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.dropdown-content a:hover {
+  color: var(--white-color);
+  background-color: var(--stats-background);
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+  opacity: 1;
+}
+
+/* Dropdown Responsive Fix for Mobile Menu */
+@media screen and (max-width: 867px) {
+  .dropdown {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .dropdown-content {
+    position: relative;
+    transform: none;
+    left: auto;
+    margin-top: 5px;
+    box-shadow: none;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.02);
+  }
+}
