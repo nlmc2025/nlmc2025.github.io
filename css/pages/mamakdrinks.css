@@ -135,14 +135,14 @@
 
 .step-info .step-title {
     color: var(--white-color);
-    font-size: 32px;
+    font-size: 24px;
     font-weight: 700;
     margin-bottom: 15px;
 }
 
 .step-info p {
     color: var(--description-color);
-    font-size: 24px;
+    font-size: 18px;
     line-height: 1.6;
 }
 
